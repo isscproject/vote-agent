@@ -12,7 +12,7 @@
 - Bo XU boxu@ia.ac.cn
 
 ## 2.	Algorithm Description
-Algorithm based on the imitation learning agent, the reinforcement learning agent and the script agent of “dypm” from the last year agent pool.
+Algorithm based on the imitation learning, the reinforcement learning and the script agent of “dypm” from the last year agent pool.
 
 ## 3.	Acknowledgement
 We would like to thank the contribution of the last years’ competitors, they gave us lots of inspirations and ideas, especially the “skynet”, “dypm”.
