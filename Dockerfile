@@ -10,8 +10,8 @@ ADD ./playground /playground
 
 # @TODO to be replaced with `pip install pommerman`
 #ADD . /pommerman
-RUN cd /playground && pip install -e . -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
-RUN cd /agent && pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
+RUN cd /playground && pip install -e .
+RUN cd /agent && pip install -r requirements.txt
 #RUN cd /pommerman && python setup.py install
 # end @TODO
 
