@@ -33,7 +33,7 @@ numpy==1.17.2
 opt-einsum==3.1.0
 pika==1.1.0
 Pillow==5.4.1
-protobuf==3.10.0
+protobuf==3.18.3
 pyglet==1.4.5
 pylint==2.4.3
 python-cli-ui==0.7.5
